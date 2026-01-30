@@ -32,8 +32,8 @@ This Power BI dashboard is designed to monitor and analyze performance within **
 ![Quality Detail](./Screenshot%202026-01-30%20184529.png)
 
 ### 3.shift analysis 
-![Shift Analysis](./![Quality Detail](./![Quality Detail](./Screenshot%202026-01-30%20184529.png)
-)
+
+![Shift Analysis](./Screenshot 2026-01-30 184602.png)
 
 ---
 
