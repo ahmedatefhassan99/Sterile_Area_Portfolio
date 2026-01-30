@@ -30,6 +30,8 @@ This Power BI dashboard is designed to monitor and analyze performance within **
 
 ### 2. Quality & Rejection Detailed View
 ![Quality Detail](./Screenshot%202026-01-30%20184529.png)
+### 3.shift analysis 
+![Quality Detail](./![Quality Detail](./Screenshot%202026-01-30%20184529.png)
 
 ---
 
